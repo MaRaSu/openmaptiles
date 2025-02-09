@@ -46,7 +46,6 @@ layer:
         - suburb
         - quarter
         - neighbourhood
-        - square
         - isolated_dwelling
         - island
         - aboriginal_lands

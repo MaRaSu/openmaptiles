@@ -180,5 +180,4 @@ tables:
         - suburb
         - quarter
         - neighbourhood
-        - square
         - isolated_dwelling
